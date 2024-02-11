@@ -5,6 +5,9 @@ A quick font installer tool.
 
 GlyphSet is a straightforward font installer tool designed for my personal learning project. Frustrated with the manual installation of numerous font files and unable to find a reliable, non-shady, and fast tool, I decided to create my own solution.
 
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/2alf/GlyphSet/font/total?style=for-the-badge&label=INSTALLS%40v1&color=3E9544)
+
+
 ## Features
 - **Rust Backend**: Powered by Rust for efficiency and performance.
 - **Python Frontend**: Utilizes a Python frontend for a user-friendly interface.
