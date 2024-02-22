@@ -33,4 +33,4 @@ GlyphSet is a straightforward font installer tool designed for my personal learn
 
 Feel free to contribute or provide feedback as this tool evolves with my ongoing learning journey.
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C3UABOS)
